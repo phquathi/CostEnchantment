@@ -2,6 +2,10 @@
 
 ![Paper 1.18.2](https://img.shields.io/badge/Paper-1.18.2-blue) ![Minecraft](https://img.shields.io/badge/Minecraft-yellow) ![JavaPlugin](https://img.shields.io/badge/JavaPlugin-green)
 [![GitHub release](https://img.shields.io/github/v/release/phquathi/costenchantment)](https://github.com/phquathi/costenchantment/releases)
+
+[简体中文](README.md) | [English](README_en.md)
+
+
 ## 介绍
 
 基于paper的我的世界服务器插件。CostEnchantment 允许服务器管理员自定义特定**铁砧**附魔的经验值花费。通过此插件，你可以为不同的附魔设定特定的经验花费，从而更好地控制游戏经济。
