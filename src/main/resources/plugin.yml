@@ -1,0 +1,13 @@
+name: CostEnchantment
+version: '${project.version}'
+author: Phquathi
+main: com.phquathi.CostEnchantment
+api-version: 1.18
+description: Customizes the XP cost for certain enchantments
+commands:
+  ce:
+    description: Main command for costEnchantment
+    usage: /<command> [args]
+  costenchantment:
+    description: Main command for costEnchantment (long version)
+    usage: /<command> [args]
