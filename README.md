@@ -1,7 +1,7 @@
 # CostEnchantment
 
 ![Paper 1.18.2](https://img.shields.io/badge/Paper-1.18.2-blue) ![Minecraft](https://img.shields.io/badge/Minecraft-yellow) ![JavaPlugin](https://img.shields.io/badge/JavaPlugin-green)
-
+[![GitHub release](https://img.shields.io/github/v/release/phquathi/costenchantment)](https://github.com/phquathi/costenchantment/releases)
 ## 介绍
 
 基于paper的我的世界服务器插件。CostEnchantment 允许服务器管理员自定义特定**铁砧**附魔的经验值花费。通过此插件，你可以为不同的附魔设定特定的经验花费，从而更好地控制游戏经济。
@@ -15,13 +15,13 @@
 
 ## 安装
 
-1. 下载 `CostEnchantment` 插件的 JAR 文件。
+1. 点击下载发行版[![GitHub release](https://img.shields.io/github/v/release/phquathi/costenchantment)](https://github.com/phquathi/costenchantment/releases)
 2. 将 JAR 文件放入服务器的 `plugins` 目录中。
 3. 启动或重启服务器，插件会自动生成配置文件。
 
 ## 配置
 
-插件的配置文件会在首次启动时生成，位于 `plugins/CostEnchantment/config.yml`。您可以在该文件中手动设置附魔的经验花费。
+插件的配置文件会在首次启动时生成，位于 `plugins/CostEnchantment/config.yml`。即可在该文件中手动设置附魔的经验花费。
 
 ```yaml
 anvilEnchantmentCosts:
@@ -64,4 +64,4 @@ anvilEnchantmentCosts:
 
 ## 问题反馈
 
-如在使用过程中遇到任何问题，请通过 GitHub 提交 issue 或联系插件作者。
+如在使用过程中遇到任何问题，请通过 GitHub 提交 issue 或联系我。
